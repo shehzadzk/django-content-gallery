@@ -1,4 +1,4 @@
-django-content-gallery
+Django-Content-Gallery
 ======================
 
 .. image:: https://travis-ci.org/Kemaweyan/django-content-gallery.svg?branch=master
